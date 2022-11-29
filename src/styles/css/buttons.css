@@ -1,0 +1,89 @@
+.nextOn{
+    width: 311px;
+    height: 48px;
+    margin-top: 28px;
+    border-radius: 12px;
+
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: white;
+
+    background: var(--primary-purple);
+}
+
+.nextOff{
+    width: 311px;
+    height: 48px;
+    margin-top: 28px;
+    border-radius: 12px;
+
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: white;
+    /* color: var(--primary-gray100); */
+
+    background: var(--primary-red);
+}
+
+.btnInit{
+    border: 1px solid var(--primary-gray200);
+    border-radius: 12px;
+    font-family: 'Pretendard';
+    font-style: normal;
+    color: var(--primary-gray700);
+    flex-direction: column;
+}
+
+.btnOff{
+    border: 1px solid var(--primary-gray200);
+    border-radius: 12px;
+    font-family: 'Pretendard';
+    font-style: normal;
+    color: var(--primary-gray200);
+    flex-direction: column;
+}
+
+.btnOnFill{
+    border: 1px solid var(--primary-purple);
+    border-radius: 12px;
+    background: var(--primary-purple);
+    box-shadow: 0px 2px 8px rgba(151, 84, 251, 0.35);
+    font-family: 'Pretendard';
+    font-style: normal;
+    color: white;
+    flex-direction: column;
+}
+
+.btnOnEdge{
+    border: 1px solid var(--primary-purple);
+    border-radius: 12px;
+    filter: drop-shadow(0px 2px 8px rgba(151, 84, 251, 0.15));
+    box-shadow: 0px 2px 8px rgba(151, 84, 251, 0.1);
+    font-family: 'Pretendard';
+    font-style: normal;
+    color: var(--primary-purple);
+    flex-direction: column;
+}
+
+.radioOff{
+    border: 2px solid var(--primary-gray200);
+    border-radius: 36px;
+    background: white;
+}
+
+.radioOn{
+    border: 11px solid var(--primary-purple);
+    border-radius: 36px;
+    background: white;
+    box-shadow: 0px 2px 8px rgba(151, 84, 251, 0.35);
+}
+
+
+
+

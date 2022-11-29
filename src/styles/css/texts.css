@@ -1,0 +1,104 @@
+/* span */
+.red {
+    color: var(--primary-red);
+}
+.purple {
+    color: var(--primary-purple);
+}
+
+/* text */
+.title1 {
+    width: 100%;
+    height: 32px;
+    margin-top: 24px;
+    padding-left: calc(50% - 360px/2 + 48px);
+    
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    
+    
+    color: #000000;
+}
+
+.title2 {
+    width: 100%;
+    height: 64px;
+    margin-top: 24px;
+    padding-left: calc(50% - 360px/2 + 48px);
+    
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    
+    
+    color: #000000;
+}
+
+.title3 {
+    width: 100%;
+    height: 96px;
+    margin-top: 24px;
+    padding-left: calc(50% - 360px/2 + 48px);
+    
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    
+    
+    color: #000000;
+}
+
+.text-400-14 {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.text-purple {
+    width: 100%;
+    height: 24px;
+
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    
+    text-align: center;
+    
+    color: var(--primary-purple);
+}
+
+.tabText {
+    width: 100%;
+
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    
+    text-align: center;
+}
+
+.tabBigText {
+    width: 100%;
+
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 14px;
+    
+    text-align: center;
+}

@@ -1,0 +1,82 @@
+
+/* margin */
+.margin8 {
+    width: 100%;
+    height: 8px;
+}
+.margin12 {
+    width: 100%;
+    height: 12px;
+}
+.margin16 {
+    width: 100%;
+    height: 16px;
+}
+.margin20 {
+    width: 100%;
+    height: 20px;
+}
+.margin24 {
+    width: 100%;
+    height: 24px;
+}
+.marginTalk {
+    width: 100%;
+    height: 32px;
+}
+.margin32 {
+    width: 100%;
+    height: 32px;
+}
+.margin36 {
+    width: 100%;
+    height: 36px;
+}
+.margin40 {
+    width: 100%;
+    height: 40px;
+}
+.marginTitleBottom {
+    width: 100%;
+    height: 48px;
+}
+.margin48 {
+    width: 100%;
+    height: 48px;
+}
+.margin56 {
+    width: 100%;
+    height: 56px;
+}
+.margin64 {
+    width: 100%;
+    height: 64px;
+}
+.marginTalkBottom {
+    width: 100%;
+    height: 80px;
+}
+.margin80 {
+    width: 100%;
+    height: 80px;
+}
+.margin96 {
+    width: 100%;
+    height: 96px;
+}
+.end {
+    width: 100%;
+    height: 150px;
+}
+
+/* container */
+.div-relative {
+    position: relative;
+}
+
+/* scroll */
+.scroll-join {
+    width: 100%;
+    height: calc(100vh - 104px);
+    overflow: scroll;
+}
